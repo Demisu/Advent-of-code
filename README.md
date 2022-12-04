@@ -7,8 +7,8 @@ Collection of my advent of code attempts
 ## 2022
 
 > I'm trying to solve all days on one line with **Groovy**.  
-Challenge status: ***All** Days* up to *Day **3*** have been solved in 1 line.  
-*Last updated: 03/12/22*
+Challenge status: ***All** Days* up to *Day **4*** have been solved in 1 line.  
+*Last updated: 04/12/22*
 
 ## 2021
 
