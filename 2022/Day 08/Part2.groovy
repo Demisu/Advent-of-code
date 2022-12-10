@@ -1,5 +1,5 @@
 // Rows
-def rows = new File("/uploads/input.txt").getText().split("\r\n")
+def rows = new File("input.txt").getText().split("\r\n")
 def rowsNumber = rows.size()
 def row = []
 

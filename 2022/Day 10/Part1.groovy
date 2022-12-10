@@ -1,4 +1,4 @@
-def input = new File("/uploads/input.txt").getText().split("\r\n")
+def input = new File("input.txt").getText().split("\r\n")
 def resultMap = [:]
 resultMap.put(0, [1])
 
